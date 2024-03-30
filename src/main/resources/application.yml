@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: aws-s3-demo
+  cloud:
+    aws:
+      credentials:
+        secret-key: secretKey
+        access-key: accessKey
